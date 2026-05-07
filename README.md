@@ -4,7 +4,7 @@
 ![Stats](https://img.shields.io/badge/Stats-Cronbach's%20Alpha-green)
 
 ## Project Overview
-This project focuses on the **Reliability Analysis** and **Item Calibration** of a 12-item psychometric instrument. Using a sample of **N=245**, the objective was to evaluate the internal consistency and the individual contribution of each item to the overall scale quality.
+This project focuses on the **Reliability Analysis** and **Item Calibration** of a 12item psychometric instrument. Using a sample of **N=245**, the objective was to evaluate the internal consistency and the individual contribution of each item to the overall scale quality.
 
 ## Methodology
 The analysis followed the Classical Test Theory (CTT) framework:
@@ -17,7 +17,7 @@ The analysis followed the Classical Test Theory (CTT) framework:
 | File | Description |
 | :--- | :--- |
 | `DATOS ESTUDIO 1 AAE2.csv` | Raw scores for the initial 12-item scale. |
-| `DATOS ESTUDIO 2 AAE2.csv` | Comparative dataset for cross-validation. |
+| `DATOS ESTUDIO 2 AAE2.csv` | Comparative dataset for cross validation. |
 
 ---
 
@@ -29,7 +29,7 @@ The analysis followed the Classical Test Theory (CTT) framework:
 
 ### 2. Item Analysis (Item-Total Correlation)
 The analysis identified the contribution of each item to the construct:
-* **Best Performing Items:** Items 4 ($r = .653$) and 7 ($r = .642$) showed the highest corrected item-total correlations.
+* **Best Performing Items:** Items 4 ($r = .653$) and 7 ($r = .642$) showed the highest corrected item total correlations.
 * **Consistency:** All items maintained correlations above the critical threshold (>.30), confirming they all contribute significantly to the measured dimension.
 
 ### 3. Sensitivity Analysis
@@ -37,7 +37,7 @@ The analysis identified the contribution of each item to the construct:
 
 ## Conclusions
 1. **Instrument Precision:** With an $\alpha = .882$, the instrument is highly reliable for both research and clinical application.
-2. **Homogeneity:** The items show high inter-item correlation, proving they successfully capture the same latent construct.
+2. **Homogeneity:** The items show high inter item correlation, proving they successfully capture the same latent construct.
 3. **Quality Assurance:** No items required elimination during this phase, validating the preliminary content work done in AAE1.
 
 ---
