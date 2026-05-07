@@ -16,7 +16,7 @@ The analysis followed the Classical Test Theory (CTT) framework:
 ## Dataset Description
 | File | Description |
 | :--- | :--- |
-| `DATOS ESTUDIO 1 AAE2.csv` | Raw scores for the initial 12-item scale. |
+| `DATOS ESTUDIO 1 AAE2.csv` | Raw scores for the initial 12 item scale. |
 | `DATOS ESTUDIO 2 AAE2.csv` | Comparative dataset for cross validation. |
 
 ---
