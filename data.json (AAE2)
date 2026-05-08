@@ -1,0 +1,18 @@
+{
+  "project_name": "SSEPQ - Reliability and Item Analysis",
+  "instrument": "Student Satisfaction with Educational Podcasts Questionnaire",
+  "sample_size": 376,
+  "reliability_metrics": {
+    "cronbach_alpha": 0.882,
+    "standardized_alpha": 0.884,
+    "number_of_items": 10
+  },
+  "item_analysis": {
+    "highest_discrimination_items": ["x4", "x7"],
+    "action_taken": "Optimization study (Alpha if item deleted)"
+  },
+  "replication_study": {
+    "study_2_variance": 5.92,
+    "study_2_alpha": 0.845
+  }
+}
